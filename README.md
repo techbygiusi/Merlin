@@ -6,7 +6,7 @@ Welcome to **Merlin**! This intuitive web application is designed to simplify an
     🌐 <a href="https://merlin-demo.calma-media.com/" target="_blank"><strong>Check Out the Live Demo</strong></a> 🌐
 </div>
 
-## 🚀 Features
+## 🚀 Features d
 
 - **Add and Manage Subnets** ➕: Effortlessly add multiple subnets and delete them when needed.
 
