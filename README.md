@@ -3,19 +3,16 @@
 Welcome to **Merlin**! This intuitive web application is designed to simplify and streamline IP management for your homelab. Whether you’re running a small network or an extensive home setup, Merlin provides the tools you need to organize and monitor your IP addresses effortlessly.
 
 <div align="center">
+    <img src="logo.png" alt="Merlin Dashboard" width="50%" />
+</div>
+
+<div align="center">
     🌐 <a href="https://merlin-demo.calma-media.com/" target="_blank"><strong>Check Out the Live Demo</strong></a> 🌐
 </div>
 
-## 🚀 Features d
+## 🚀 Features
 
 - **Add and Manage Subnets** ➕: Effortlessly add multiple subnets and delete them when needed.
-
-
-<div align="center">
-    <img src="merlin-start.png" alt="Merlin Dashboard" width="95%" />
-</div>
-
-
 - **IP Details and Customization** 📝: Assign names, descriptions, and links to specific IP addresses.
 - **IP Status Management** ✅: Mark IPs as **Free**, **Reserved**, or **Blocked** for easy identification.
 - **Efficient Filtering and Searching** 🔍: Quickly find and filter IPs based on your criteria.
