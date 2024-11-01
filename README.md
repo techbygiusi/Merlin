@@ -29,6 +29,8 @@ Welcome to **Merlin**! This intuitive web application is designed to simplify an
     <img src="merlin-statistics.png" alt="Merlin Dashboard" width="70%" />
 </div>
 
+- **Fully Optimized for Mobile and Any Screen Size** 📱: Enjoy a seamless experience on any device, from smartphones to large monitors.
+
 With Merlin, managing your homelab IP addresses has never been so organized and efficient!
 
 ## 📜 Patch Notes
