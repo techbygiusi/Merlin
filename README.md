@@ -10,9 +10,11 @@ Welcome to **Merlin**! This intuitive web application is designed to simplify an
 
 - **Add and Manage Subnets** ➕: Effortlessly add multiple subnets and delete them when needed.
 
+
 <div align="center">
     <img src="merlin-start.png" alt="Merlin Dashboard" width="95%" />
 </div>
+
 
 - **IP Details and Customization** 📝: Assign names, descriptions, and links to specific IP addresses.
 - **IP Status Management** ✅: Mark IPs as **Free**, **Reserved**, or **Blocked** for easy identification.
