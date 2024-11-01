@@ -55,9 +55,9 @@ Merlin allows you to personalize the appearance of your web app. Customize color
   /* Placeholder text color */
   --color-placeholder-text: #a89f94;          /* Color for placeholder text in input fields */
 
-  /* Modal colors */
-  --color-modal-background: #5c4b3e;          /* Background color for box dialogs */
-  --color-modal-text: #d8cfc4;                /* Text color inside boxes */
+  /* Window colors */
+  --color-modal-background: #5c4b3e;          /* Background color for windows dialogs */
+  --color-modal-text: #d8cfc4;                /* Text color inside windows */
   --color-tile-text: #d8cfc4;                 /* Text color for tiles or cards */
 
   /* Button colors */
