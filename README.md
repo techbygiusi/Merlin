@@ -3,11 +3,7 @@
 Welcome to **Merlin**! This intuitive web application is designed to simplify and streamline IP management for your homelab. Whether you’re running a small network or an extensive home setup, Merlin provides the tools you need to organize and monitor your IP addresses effortlessly.
 
 <div align="center">
-    🌐 **[Check Out the Live Demo](https://merlin-demo.calma-media.com/)** 🌐
-</div>
-
-<div align="center">
-    <img src="logo.png" alt="Merlin Dashboard" width="50%" />
+    🌐 <a href="https://merlin-demo.calma-media.com/" target="_blank"><strong>Check Out the Live Demo</strong></a> 🌐
 </div>
 
 ## 🚀 Features
