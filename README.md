@@ -18,7 +18,7 @@ Welcome to **Merlin**! This intuitive web application is designed to simplify an
 - **IP Status Management** ✅: Mark IPs as **Free**, **Reserved**, or **Blocked** for easy identification.
 
 <div align="center">
-    <img src="merlin-ip-settings.png" alt="Merlin Dashboard" width="50%" />
+    <img src="merlin-ip-settings.png" alt="Merlin Dashboard" width="70%" />
 </div>
 
 - **Efficient Filtering and Searching** 🔍: Quickly find and filter IPs based on your criteria.
@@ -26,7 +26,7 @@ Welcome to **Merlin**! This intuitive web application is designed to simplify an
 - **Statistics Overview** 📊: View a summary of free, reserved, and blocked IP addresses to monitor your network's usage.
 
 <div align="center">
-    <img src="merlin-statistics.png" alt="Merlin Dashboard" width="50%" />
+    <img src="merlin-statistics.png" alt="Merlin Dashboard" width="70%" />
 </div>
 
 With Merlin, managing your homelab IP addresses has never been so organized and efficient!
