@@ -72,3 +72,9 @@ Merlin allows you to personalize the appearance of your web app. Customize color
 ```
 
 Adjust these variables to change the colors of your app elements, giving Merlin a look that suits your personal or homelab theme!
+
+## 📷 Screenshots
+
+![merlin](https://github.com/user-attachments/assets/06f46a53-a9b7-426c-80fe-b02f24007469)
+
+![merlin-add](https://github.com/user-attachments/assets/5ecd51b8-43ad-41b8-8be6-79ab72c9a135)
